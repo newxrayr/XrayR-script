@@ -14,9 +14,9 @@ Find the source code here: [newxrayr/XrayR](https://github.com/newxrayr/XrayR)
 # 一键安装
 
 ```
-wget -N https://raw.githubusercontents.com/newxrayr/XrayR-script/main/install.sh && bash install.sh
+wget -N https://raw.githubusercontent.com/newxrayr/XrayR-script/main/install.sh && bash install.sh
 ```
 OR
 ```
-bash <(curl -Ls https://raw.githubusercontents.com/newxrayr/XrayR-script/main/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/newxrayr/XrayR-script/main/install.sh)
 ```
